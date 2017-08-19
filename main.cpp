@@ -1,5 +1,5 @@
 
-//	智能指针管理 
+//	Smart Pointer manage
 
 
 #include <iostream.h>
